@@ -1,8 +1,10 @@
 Hi there 👋
 
-My name is Markas, I am a self taught Python enthusiast, I mostly focus on office task automation, webscrapping, etc.  
+  * My name is Markas
+  * I am a self taught Python enthusiast
+  * I mostly focus on office task automation, webscrapping, etc 
+  * [My CV ](https://github.com/markaspo/markaspo/files/6559783/Markas_Povilaika_CV.1.pdf)
 
-My CV: [Markas_Povilaika_CV (1).pdf](https://github.com/markaspo/markaspo/files/6559783/Markas_Povilaika_CV.1.pdf)
+Contact me on: 
 
-Contact me on:
-[https://www.linkedin.com/in/markaspovilaika/](https://ricardoreadingmouse.com.au/wp-content/uploads/2018/04/linkedin-logo-copy.png)
+[<img src="https://user-images.githubusercontent.com/76971353/119973172-d64b9800-bfbb-11eb-9763-c7af1d31877f.png" height=30>](https://www.linkedin.com/in/markaspovilaika/)
