@@ -8,5 +8,4 @@ My name is Markas, I am a self taught Python enthusiast. I mostly focus on autom
 <img src="https://user-images.githubusercontent.com/76971353/119979607-d64f9600-bfc3-11eb-8214-5567e768b7ac.png" height=25><img src="https://user-images.githubusercontent.com/76971353/119976342-a56d6200-bfbf-11eb-9798-5c28618513a9.png" height=25> 
 
 #### Socials:
-[<img src="https://user-images.githubusercontent.com/76971353/119973172-d64b9800-bfbb-11eb-9763-c7af1d31877f.png" height=25>](https://www.linkedin.com/in/markaspovilaika/)
-[<img src="https://user-images.githubusercontent.com/76971353/119976132-56bfc800-bfbf-11eb-858e-b0076f5cd7c1.png" height=25>](https://stackoverflow.com/users/5431975/markas-povilaika)
+[<img src="https://user-images.githubusercontent.com/76971353/119973172-d64b9800-bfbb-11eb-9763-c7af1d31877f.png" height=25>](https://www.linkedin.com/in/markaspovilaika/)          [<img src="https://user-images.githubusercontent.com/76971353/119976132-56bfc800-bfbf-11eb-858e-b0076f5cd7c1.png" height=25>](https://stackoverflow.com/users/5431975/markas-povilaika)
