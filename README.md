@@ -2,7 +2,7 @@
 
 
 #### About:
-My name is Markas, I am a self taught Python enthusiast. I mostly focus on office task automation, webscrapping, etc. Btw here is [my CV ](https://github.com/markaspo/markaspo/files/6559783/Markas_Povilaika_CV.1.pdf).
+My name is Markas, I am a self taught Python enthusiast. I mostly focus on automation, webscrapping, etc. Btw here is [my CV ](https://github.com/markaspo/markaspo/files/6559783/Markas_Povilaika_CV.1.pdf).
 
 #### Languages and Tools:
 <img src="https://user-images.githubusercontent.com/76971353/119979607-d64f9600-bfc3-11eb-8214-5567e768b7ac.png" height=25><img src="https://user-images.githubusercontent.com/76971353/119976342-a56d6200-bfbf-11eb-9798-5c28618513a9.png" height=25> 
