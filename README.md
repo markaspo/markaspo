@@ -1,7 +1,7 @@
 Hi there 👋
 
   * My name is Markas
-  * I am a self taught Python enthusiast <img src="https://user-images.githubusercontent.com/76971353/119976342-a56d6200-bfbf-11eb-9798-5c28618513a9.png" height=20> 
+  * I am a self taught Python enthusiast <img src="https://user-images.githubusercontent.com/76971353/119976342-a56d6200-bfbf-11eb-9798-5c28618513a9.png" height=13> 
   * I mostly focus on office task automation, webscrapping, etc 
   * [My CV ](https://github.com/markaspo/markaspo/files/6559783/Markas_Povilaika_CV.1.pdf)
 
